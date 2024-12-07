@@ -19,7 +19,7 @@ A simple project that recreates the **Flag of Laos** using only **HTML** and **C
 Download the files or clone the repository:
 
 ```bash
-git clone https://github.com/naz-rezaei/css-flag-project.git
+git clone https://github.com/naz-rezaei/laos-flag-css.git
 
 
 
