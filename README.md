@@ -16,8 +16,12 @@ A simple project that recreates the **Flag of Laos** using only **HTML** and **C
 ---
 
 ### 🚀 How to View the Project  
+
+### 🚀 How to View the Project  
 Download the files or clone the repository:
+
+```bash
 git clone https://github.com/naz-rezaei/css-flag-project.git
-Open the `index.html` file in your browser to view the flag.
+
 
 
