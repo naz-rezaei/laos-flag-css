@@ -16,8 +16,6 @@ A simple project that recreates the **Flag of Laos** using only **HTML** and **C
 ---
 
 ### 🚀 How to View the Project  
-
-### 🚀 How to View the Project  
 Download the files or clone the repository:
 
 ```bash
